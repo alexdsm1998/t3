@@ -22,4 +22,4 @@ if(letrausu== adivinar.charAt(i)){
   intentos++
 }
 }
-console.log('Numero de intenros: ',intentos);
+console.log('Numero de intenros: ',intentos)
