@@ -23,3 +23,4 @@ if(letrausu== adivinar.charAt(i)){
 }
 }
 console.log('Numero de intenros: ',intentos)
+var j='j';
